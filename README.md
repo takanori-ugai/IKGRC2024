@@ -19,6 +19,9 @@
   * [ナレッジグラフ推論チャレンジ【実社会版】技術勉強会（第2回）for KGRC2022](https://connpass.com/event/272593/)
     * [Materials](https://github.com/KnowledgeGraphJapan/KGRC-ws-2022/tree/20230210)
     * [Movie(Youtube)](https://www.youtube.com/watch?v=r9wCkFy3JGc&list=PLHaRK-B0LUwgZDIxSu8_nPEfoBSQ0qvcG)
+  * [ナレッジグラフ推論チャレンジ【実社会版】技術勉強会] (https://connpass.com/event/264782/)
+    * [Materials](https://github.com/KnowledgeGraphJapan/KGRC-ws-2022/)
+    * [Movie(Youtube)](https://www.youtube.com/watch?v=Ww6gwOsm-Dg&list=PLHaRK-B0LUwhany_uYrCONI5vyGI0fboj)
 ### Task Description
   * [Application Guideline](https://ikgrc.org/2024/application.html)
 ### Introduction Presentation in IKGRC2024
@@ -28,3 +31,4 @@
 
 # Past Event
 * [KGRC4SI 2022](https://challenge.knowledge-graph.jp/2022/)
+  * [Final Presentations](https://www.youtube.com/watch?v=Ajbn8hNXiZ8&list=PLHaRK-B0LUwjvrPgmIBTrf3DsPhmdnFTW)
