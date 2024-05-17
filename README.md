@@ -16,7 +16,15 @@
 ## Challenge Overview
 ### DataSet
   * [Data structure inc. how to use it](https://ikgrc.org/2024/rdf.html)
-### Tasks
+  * [ナレッジグラフ推論チャレンジ【実社会版】技術勉強会（第2回）for KGRC2022](https://connpass.com/event/272593/)
+    * [Materials](https://github.com/KnowledgeGraphJapan/KGRC-ws-2022/tree/20230210)
+    * [Movie(Youtube)](https://www.youtube.com/watch?v=r9wCkFy3JGc&list=PLHaRK-B0LUwgZDIxSu8_nPEfoBSQ0qvcG)
+### Task Description
   * [Application Guideline](https://ikgrc.org/2024/application.html)
 ### Overview Presentation in IKGRC2024
-  * Slide 
+  * [Slide in English](./Overview_en.pdf)
+  * [Slide in Japanese](./Overview_ja.pdf)
+  * [Video in IKGRC2024](https://youtu.be/oKdfIEYPMYw)
+
+# Past Event
+* [KGRC4SI 2022](https://challenge.knowledge-graph.jp/2022/)
