@@ -21,7 +21,7 @@
     * [Movie(Youtube)](https://www.youtube.com/watch?v=r9wCkFy3JGc&list=PLHaRK-B0LUwgZDIxSu8_nPEfoBSQ0qvcG)
 ### Task Description
   * [Application Guideline](https://ikgrc.org/2024/application.html)
-### Overview Presentation in IKGRC2024
+### Introduction Presentation in IKGRC2024
   * [Slide in English](./Overview_en.pdf)
   * [Slide in Japanese](./Overview_ja.pdf)
   * [Video in IKGRC2024](https://youtu.be/oKdfIEYPMYw)
